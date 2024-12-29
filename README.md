@@ -8,6 +8,6 @@ Stock Tracking: Monitor inventory levels to prevent shortages or overstocking.
 Billing System: Generate invoices for customers quickly and accurately.
 Payment Tracking: Keep records of all transactions and pending payments.
 User-Friendly Interface: Simple and intuitive design for easy navigation.
-Secure Data Storage: Uses MySQL for secure and reliable database management system
+Secure Data Storage: Uses MySQL for secure and reliable database management system.
 
 
